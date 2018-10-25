@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/mapdrive.txt</file>
+        <file>data/lanemap.txt</file>
+    </qresource>
+</RCC>
