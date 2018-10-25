@@ -41,7 +41,7 @@ MainWindow::MainWindow(QWidget *parent) : QTabWidget(parent)
     this->setFixedSize(windowWidth, windowHeight);
 
     //读取laneMap
-    this->readLaneMapSlot("F:/lanemap.txt");
+    this->readLaneMapSlot(":/data/lanemap.txt");
     //设置laneDrive的laneMap
     laneDrive->setLaneMap(this->laneMap);
 

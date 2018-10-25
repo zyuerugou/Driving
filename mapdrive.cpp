@@ -275,7 +275,7 @@ int MapDrive::routePlanFun()
  * */
 int MapDrive::readMap()
 {
-    QFile file(QString("F:/mapdrive.txt"));
+    QFile file(QString(":/data/mapdrive.txt"));
 
     if (!file.open(QIODevice::ReadOnly))
     {
