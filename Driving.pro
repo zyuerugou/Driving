@@ -31,4 +31,5 @@ HEADERS  += lanedrive.h \
     control.h
 
 RESOURCES += \
-    images.qrc
+    images.qrc \
+    mapdata.qrc
