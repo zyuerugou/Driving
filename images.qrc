@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/dback.jpg</file>
+        <file>images/oback.jpg</file>
+        <file>images/road.jpg</file>
+        <file>images/gold.png</file>
+        <file>images/obstacle.png</file>
+        <file>images/car.png</file>
+        <file>images/map.jpg</file>
+        <file>images/btnback.jpg</file>
+        <file>images/mapbtnback.jpg</file>
+        <file>images/homepage.jpg</file>
+    </qresource>
+</RCC>
